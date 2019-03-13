@@ -22,4 +22,4 @@ as a load-balancer.
 
 An acceptable form is this:
 
-    https://www.localhost.com/?session-guest123=isdfh2892m20&site=foo.bar&site=red.com&siteJ2=blue.com&key=variable
+    https://www.localhost.com/saas?session-guest123=isdfh2892m20&site=foo.bar&site=red.com&siteJ2=blue.com&key=variable
