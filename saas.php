@@ -87,9 +87,9 @@
     }
    
     function get_postfields($request){
-        foreach($request as $kk=>$vv){
-            if($kk!='servers'){
-                $fields[$kk]=$vv;
+        foreach($request as $k=>$v){
+            if($k!='servers'){
+                $fields[$k]=$v;
             }
         }
         return $fields;
